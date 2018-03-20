@@ -17,6 +17,7 @@ gem 'simple_form'
 gem 'paperclip', :git => "git://github.com/thoughtbot/paperclip.git"
 
 group :development, :test do
+  gem 'coveralls', require: false
   gem 'capybara', '~> 2.15'
   gem 'rspec-rails', '~> 3.7'
   gem 'spring'
