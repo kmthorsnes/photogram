@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+[![Coverage Status](https://coveralls.io/repos/github/kmthorsnes/photogram/badge.svg?branch=master)](https://coveralls.io/github/kmthorsnes/photogram?branch=master)
